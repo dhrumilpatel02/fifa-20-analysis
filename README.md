@@ -12,7 +12,7 @@ The purpose of this project is to determine which attributes a footballer needs 
 * Classification Algorithms (k-NN, Decision Tree, Neural Nets Classifer)
 
 ### Technologies Used
-* Python (pandas, numpy, seaborn, matplotlib, plotly, scikit-learn, )
+* Python (pandas, numpy, seaborn, matplotlib, plotly, scikit-learn)
 
 ## Project Description
 * Data Source- Kaggle (FIFA 20 complete player dataset).  
